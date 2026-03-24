@@ -13,7 +13,7 @@ I am a **Software Engineer** specializing in high-performance architectures and 
 Currently, I’m focused on optimizing critical infrastructure at **BBVA’s API Gateway team** and scaling independent enterprise solutions.
 
 - 🚀 **Currently building:** Scalable microservices and cloud-native architectures.
-- 🦀 **Deep diving into:** Advanced **Rust** and **Go** for high-concurrency systems.
+- 🦀 **Deep diving into:** Basic **Rust** and **Go** for high-concurrency systems.
 - 🐧 **My Workflow:** I live in a minimalist **Arch Linux** environment with **xmonad**, where every keybinding is optimized for maximum developer experience (DX).
 - ☕ **Fun fact:** I apply the same "conscious optimization" to my code as I do to my morning espresso shot.
 
