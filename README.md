@@ -40,7 +40,7 @@ Currently, I’m focused on optimizing critical infrastructure at **BBVA’s API
 
 ### 📫 Connect with me
 
-- 📧 **Email:** <a href="mailto:dilangrajales1128@hotmail.com">dilangrajales1128@hotmail.com</a>
+- 📧 **Email:** <a href="mailto:dilangrajales1128+job-interest@gmail.com">dilangrajales1128+job-interest@gmail.com</a>
 - 💼 **LinkedIn:** <a href="https://www.linkedin.com/in/dilan-grajales-151a7b1a8/">https://www.linkedin.com/in/dilan-grajales-151a7b1a8</a>
 
 ---
